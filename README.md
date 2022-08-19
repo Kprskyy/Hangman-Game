@@ -1,7 +1,7 @@
 # Hangman Game
 
 
-Prosta gra na bazie "wisielca".
+• Prosta gra na bazie "wisielca".
 
 • Jest to  projekt z kursu, który wykonuję.
 
