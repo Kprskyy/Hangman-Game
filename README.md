@@ -1,4 +1,4 @@
 # Hangman Game
 
 
-simple game
+A simple game
