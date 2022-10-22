@@ -4,7 +4,7 @@ haslo = haslo.toUpperCase(); /*Zmienia litery pisane na drukowane*/
 var dlugosc = haslo.length; /*Łańcuch długości hasła, zmienna globalna*/
 var ilosc_skuch = 0
 
-var haslo1 = "";
+var haslo1 = ""; 
 
 for (i=0; i<dlugosc; i++) {
   if(haslo.charAt(i)==" ") haslo1 = haslo1 + " ";
